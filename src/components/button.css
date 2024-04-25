@@ -1,0 +1,20 @@
+.button {
+    display: inline-flex;
+    padding: 9px 16px 7px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 4px;
+    background: #026BC8;
+}
+.button-content {
+    color: var(--Neutral-neutral-100, #FFF);
+    /* Button/Default */
+    font-family: "Roboto Condensed";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.48px;
+    text-transform: uppercase
+}

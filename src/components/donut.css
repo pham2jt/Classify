@@ -1,0 +1,6 @@
+.donut {
+    height: 106px;
+    width: 106px;
+    display: grid;
+    place-items: center;
+}
